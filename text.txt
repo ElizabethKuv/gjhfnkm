@@ -1,0 +1,1157 @@
+About our project 
+The Problem
+Thailand is the first Southeast Asian country to decriminalize cannabis for medical and recreational use in June 2022. This has created a huge and untapped market opportunity for cannabis businesses in Thailand, which is projected to grow to US$661 million by 2024.
+However, the Thai cannabis industry is still unregulated, fragmented and chaotic. There are hundreds of small and medium-sized cannabis growers and sellers who struggle to find reliable buyers, negotiate fair prices, ensure product quality and comply with legal standards. There are also thousands of potential customers who have no easy way to access a wide range of cannabis products, compare prices and reviews, order online and get fast delivery.
+According to a survey by Prohibition Partners, a cannabis research firm, 76% of Thai cannabis growers and sellers reported difficulties in finding buyers for their products, while 82% of Thai cannabis buyers reported difficulties in finding sellers for their needs. Moreover, 68% of Thai cannabis growers and sellers reported concerns about product quality and safety, while 74% of Thai cannabis buyers reported concerns about product authenticity and legality.
+ there are over 4,629 cannabis-related businesses in Thailand as of December 2022.
+The Solution
+Ganja Galaxy is an innovative multilingual B2B wholesale marketplace that connects cannabis growers and sellers with buyers in Thailand. Ganja Galaxy offers a one-stop solution for all your cannabis needs, whether you are a farmer, a retailer, a dispensary, a clinic or a consumer.
+
+Ganja Galaxy is an innovative multilingual  B2B wholesale marketplace tailored to the burgeoning Thai cannabis industry, currently valued at $80.3 - $122.1 million with a projected CAGR of 53.2% to 58.4% from 2023-2028. Our platform connects licensed cannabis producers, distributors, and retailers, streamlining the buying and selling of high-quality cannabis products at competitive prices.
+We go beyond being a simple classifieds platform by actively driving customer traffic and directing it towards the products and volumes that matter most to our users. 
+Commission-Based Marketplace: We charge a 7% commission fee from the suppliers for every transaction made on our platform.
+We chose the name Ganja Galaxy for our wholesale marketplace for cannabis in Thailand, because we want to highlight our innovation, creativity and leadership in this industry. We want to create a galaxy of opportunities for our customers and partners, who can find and buy the best strains and products of cannabis on our platform. We also want to reflect our commitment to quality, safety and legality of our business, which meets all the requirements and standards of Thai legislation.
+
+in the future:
+Time-saving AI integration: Utilizing artificial intelligence for tasks like creating product descriptions and SEO-optimizing products, resulting in a more efficient and user-friendly platform
+Wholesale Buying Pool: Facilitated by Dudu, our bot helper, this unique system allows multiple retailers to pool resources and purchase cannabis products in bulk at lower prices, promoting collaboration and cost-effective transactions for smaller businesses
+Subscription-Based Cannabis Service: An innovative subscription service that enables customers to pay a weekly fee and receive a regular supply of cannabis at a discounted rate based on their monthly volume, providing a convenient and cost-effective solution for businesses looking to maintain consistent inventory
+
+
+
+About us (project founders)
+Ganja Galaxy was founded by Eduard Alexandrov and Elizaveta Kuvshinova, a dynamic duo. Eduard Alexandrov, an experienced programmer from Russia, honed his skills as a developer at one of Russia's leading companies, Magnit. Very quick to learn. Has a character like Tony Stark and the desire only to win. Eduard is able to do fullstack website development, create telegram bots and webbots, develop crm systems and admin panels, create nobackend solutions, create and train AI.
+Elizabeth Kuvshinova, Eduard's fiancée and business partner, boasts a remarkable track record in startups and SMM since she was 15. At 17, she founded her own Minecraft-based online school for kids, and then gained invaluable experience as a project manager at one of Russia's largest online gambling companies. She also previously worked on the affilliate marketing team and has experience spreading an advertising budget of $50,000 a month on topics banned by Facebook and other advertising platforms like cannabis.
+
+
+Eduard Alexandrov - Co-founder, CEO, CTO, team lid, software engineer
+Seasoned programmer from Russia with a Tony Stark-esque character and strong desire to succeed
+Skilled in full-stack website development, creating bots, developing CRM systems and admin panels by using google technologies, and creating and training AI.
+Leads the technical implementation of the platform and drives strategic and operational decisions
+Web development using HTML, CSS, JavaScript, React, and Node.js
+Mobile development using React Native and Flutter
+Database management using MongoDB, Firebase, and PostgreSQL
+Backend development using Express, GraphQL, and RESTful APIs
+Testing and debugging using Jest, Enzyme, and Cypress
+Version control using Git and GitHub
+Agile methodology using Scrum and Kanban
+Project management using Trello and Jira
+
+
+
+
+Elizaveta Kuvshinova - Co-founder, Product and Project Manager, Marketing Officer
+Remarkable track record in startups and SMM since the age of 15
+Founded a Minecraft-based online school for kids at 17 and later worked as the p2p payment department chief in one of Russia's largest online gambling companies
+Extensive experience in affiliate marketing, managing advertising budgets up to $50,000 per month on prohibited topics on platforms like Facebook
+Serves as the brand ambassador and oversees content creation and video production
+She has experience in startup creation and management, particularly in the edtech industry. She is also a skilled developer who can code in various languages such as Python and C# for Unity development. She has a passion for gamification of learning and has successfully launched an online school for children in Minecraft. She is also interested in health and well-being, anime, psychology, and volunteering. She is fluent in English and Russian.
+Legal Structure and Ownership
+Ganja Galaxy is not yet legally registered, and Thai rules and laws are still being fully understood as the legislation is not yet complete. The company has researched the issue, calculated the necessary funds to legalize the business in Thailand, and included these costs in the budget. Ganja Galaxy plans to register, with ownership distributed among the founding team and potential investors.
+
+
+Question
+Answer
+What is the problem that Ganja Galaxy is solving for its customers and how does it differ from existing solutions?
+Ganja Galaxy is solving the problem of connecting cannabis growers and processors with retailers and distributors in Thailand, where the cannabis industry is emerging and regulated. It differs from existing solutions by providing a B2B online marketplace that is compliant with Thai laws and regulations, transparent, secure, and convenient.
+What is the value proposition of Ganja Galaxy and how does it create value for its customers and stakeholders?
+Ganja Galaxy’s value proposition is to provide a one-stop shop for B2B cannabis transactions in Thailand, where customers can find verified and quality products, compare prices and reviews, negotiate deals, and track orders. It creates value for its customers by saving them time, money, and hassle, as well as increasing their access to a wider range of products and suppliers. It creates value for its stakeholders by generating revenue from commissions, fees, subscriptions, and advertising, as well as building a loyal and engaged user base.
+What is the target market size and growth potential of Ganja Galaxy and how do you plan to reach and acquire customers?
+The target market size of Ganja Galaxy is the B2B cannabis market in Thailand, which is estimated to be worth $660 million by 20241. The growth potential of Ganja Galaxy is high, as the Thai government has legalized medical and recreational cannabis use and cultivation, as well as allowed foreign investment and export of cannabis products2. Ganja Galaxy plans to reach and acquire customers by using online and offline marketing channels, such as social media, SEO, email marketing, events, referrals, partnerships, and word-of-mouth.
+
+
+
+Our costs, details about finances 
+
+На разработку мвп нам нужно 3 месяца. За эти 3 месяца мы закончим техническую разработку продукта, поставим на потом проивзодство фото и видео материалов для рекламы и контента, наберем базу поставщиков за счет работы менеджера и таргетированной рекламы направленной на поиск поставщиков и узнаваемость бренда. В первый месяц после запуска платформы мы будем проводить тесты рекламных компаний, а также тестировать  продукт, добавлять новые фичи, исправлять недороботки. 
+Сейчас продукт еще на стадии разработки. 
+
+Our market test results ( dirty):
+
+- Ganja Galaxy conducted a market test by creating a live chat in Telegram where they found buyers for their products. They also communicated with potential customers in online chats about cannabis.
+- Within three days of launching our chat service and spending 40 dollars for chat invites, we sold one kilogram of high-THC cannabis for USD 4,000 (THB 120,000) and another 250 grams for USD 1,000 (THB 30,000). After that we received our commission in cryptocurrency from the suppliers.
+
+
+Вот наш примерный ожидаемый список расходов:
+
+трата в usd /месяц
+1 - 3 месяц
+4 - 6 месяц
+7 - 9 месяц
+10 - 12 месяц
+оформление компании
+$2 000,00
+$0,00
+$0,00
+$0,00
+постоянные расходы связанные с ип и бухгалтерией
+$300,00
+$300,00
+$300,00
+$300,00
+аренда стартап хауса для команды
+$1 500,00
+$1 500,00
+$1 500,00
+$1 500,00
+оплата овнеру (тех диру, тим лиду, сeo, разработчику)
+$1 500,00
+$1 500,00
+$1 500,00
+$1 500,00
+оплата овнеру 2 (продукт, проджект, руководитель маркетинга, бренд амбасадро, рукоовдитлеь отдела edu, операцинный диреткор)
+$1 500,00
+$1 500,00
+$1 500,00
+$1 500,00
+оплата двух программистов
+$3 000,00
+$4 000,00
+$4 000,00
+$4 000,00
+оплата главе видеопродакшена, контент менеджер, видоеоператор, монтажер, помощника овнера
+$1 150,00
+$1 300,00
+$1 300,00
+$1 300,00
+оплата менеджера по продажам тайца
+$1 000,00
+$1 200,00
+$1 200,00
+$1 200,00
+оператор/ поддержка пользователей/аккаунт менеджер
+$0,00
+$500,00
+$600,00
+$600,00
+маркетолог (выполняющий обязанности также дизацйнера и коипирайтера)
+$1 500,00
+$1 500,00
+$1 500,00
+$1 500,00
+бюджет на маркетинг
+$1 000,00
+$10 000,00
+$20 000,00
+$30 000,00
+серверы и оплата сервисов, токенов
+$600,00
+$600,00
+$1 500,00
+$1 500,00
+тимбилдинг (пицца, кофе)
+$300,00
+$300,00
+$300,00
+$300,00
+оформление ворк-пермитов (10к в год, не считая адвокатов, юристов, подготовление бумаг) и уплата налога за работников 10% если заработок за год ниже 500т бат
+$450,00
+$0,00
+$450,00
+$0,00
+деловые поездки, командировки, участие в мероприятиях
+$500,00
+$500,00
+$1 000,00
+$1 000,00
+оформление фото/видео студии для создания контента (свет, фон, штативы и тп)
+$500,00
+$50,00
+$50,00
+$50,00
+Всего в месяц
+$16 800,00
+$24 750,00
+$36 700,00
+$46 250,00
+Всего на период 3 месяца
+$50 400,00
+$74 250,00
+$110 100,00
+$138 750,00
+Всего на 12 месяцев в целом
+$373 500,00
+
+
+
+
+
+
+
+
+Данный список примерный, сюда не заложены риски. Думаю мы ищем 400 000 долларов инвестиций.
+
+The cannabis market in thailand
+The Thai cannabis industry is one of the most promising and fastest-growing markets in Asia. According to Prohibition Partners , a cannabis research firm,
+The market value of the Thai cannabis industry is expected to reach US$661 million by 2024. This includes a medical cannabis market of $237 million and a recreational cannabis market of $424 million.
+The medical cannabis market is driven by the increasing demand for natural and alternative treatments for various conditions such as chronic pain, epilepsy, cancer, multiple sclerosis and Alzheimer’s disease. According to the Thai Food and Drug Administration (FDA), there are currently more than 60,000 registered patients who use medical cannabis in Thailand. Moreover, there are more than 300 licensed clinics that provide medical cannabis services across the country.
+The recreational cannabis market is driven by the growing acceptance and curiosity among Thai consumers who want to enjoy the benefits and effects of cannabis for personal use. According to a survey by YouGov Omnibus , a global public opinion company,
+63% of Thais support the legalization of recreational cannabis in Thailand.
+Moreover, according to a report by New Frontier Data , a global cannabis data company ,
+Thailand has an estimated 12.7 million adult cannabis consumers who spend an average of $24.5 per month on cannabis products.
+The following chart shows the projected growth of the Thai cannabis industry from 2020 to 2024:
+Market Segmentation
+The Thai cannabis industry can be segmented into two main categories: B2B (business-to-business) and B2C (business-to-consumer).
+The B2B segment consists of cannabis growers and sellers who supply their products to other businesses such as retailers, dispensaries, clinics or manufacturers. The B2B segment accounts for about 70% of the total market value.
+SWOT Analysis
+Strengths
+Focus on the Thai market: Ganja Galaxy has a clear target market of SMEs who operate in rural areas or urban outskirts of Thailand. These businesses have limited access to reliable buyers, fair prices, quality standards, and legal compliance. Ganja Galaxy offers a convenient and trustworthy platform that can help them reach more customers, increase their sales and revenue, and improve their product quality and safety.
+User-friendly and secure platform: Ganja Galaxy has a user-friendly and secure platform that enables users to compare prices and quality across different categories, order online, and receive fast and reliable delivery. The platform accepts various payment methods and provides live chat support in multiple languages. The platform also incorporates artificial intelligence functions that will create beautiful descriptions, detailed tagging, and other features that will save customers time and make the experience of using the platform more enjoyable.
+Competitive commission fee: Ganja Galaxy charges a commission fee from sellers for each transaction made on the platform. The commission fee will vary depending on the product category, volume, and quality. Ganja Galaxy’s commission fee is competitive compared to other platforms or intermediaries that charge higher fees or take advantage of sellers’ lack of bargaining power.
+Weaknesses
+Lack of brand awareness: Ganja Galaxy is a new entrant in the Thai cannabis industry and has not yet established a strong brand awareness among potential customers. Ganja Galaxy will need to invest in marketing and customer acquisition strategies to build its reputation and trust among its target market.
+Legal uncertainty: The Thai cannabis industry is still evolving and there are some legal uncertainties regarding the regulation and enforcement of cannabis laws. Ganja Galaxy will need to comply with the existing laws and keep updated with any changes or amendments that may affect its operations. Ganja Galaxy will also need to educate its customers about their rights and responsibilities when using the platform.
+Logistics challenges: Ganja Galaxy will need to ensure that its delivery service is fast and reliable across different regions of Thailand. Ganja Galaxy will need to partner with reputable logistics providers who can handle the transportation and storage of cannabis products safely and securely. Ganja Galaxy will also need to deal with any potential issues such as delays, damages, losses, or thefts that may occur during the delivery process.
+Opportunities
+Growing market demand: The Thai cannabis industry is projected to grow to USD 661 million by 2024, with a potential customer base of 86 million cannabis consumers. Ganja Galaxy can tap into this growing market demand by offering a wide range of products for different end-uses such as medical use, recreational use, industrial use etc.
+Government support: The Thai government has shown support for the development of the cannabis industry as a way to boost the economy and help
+
+
+marketing 
+We are going to use affiliate marketing for cheaper ads cost. У нас уже есть опыт залива рекламы в нишах гемблинга и нутры азии. Так что мы можем прогнозировать примерную цену качественного лида регистрации на платформе в 5 - 20 долларов. 
+
+our products 
+
+What technology we use 
+AWS, vue, vuetify, nodejs, amplify
+
+Competitor's experience
+
+Платформа  Общий объем продаж (2022)  Количество заказов (2022)  Частота покупок (2022)  Средняя продолжительность жизни клиента (2022)  AOV  CLV  Средняя стоимость товара (шишки)  Условия для покупки
+Leaflink  $2.4 млрд  1.2 млн  3.6  2 года  $2000  $14,400  $1,800 за фунт  Требуется лицензия и подтверждение возраста
+Kush.com  $120 млн  300 тыс.  1.5  1.5 года  $400  $900  $1,500 за фунт  Требуется подтверждение возраста
+Вот мой анализ:
+
+Leaflink имеет значительно выше AOV и CLV, чем kush.com, что свидетельствует о том, что leaflink обслуживает более крупных и профессиональных клиентов в каннабис-индустрии, которые делают большие и частые заказы. Leaflink также предлагает более высокую стоимость товара (шишки), чем kush.com, что может отражать более высокое качество или эксклюзивность продуктов на платформе.
+Kush.com имеет значительно ниже AOV и CLV, чем leaflink, что свидетельствует о том, что kush.com обслуживает более разнообразных и лояльных клиентов в каннабис-индустрии, которые делают меньшие и реже заказы. Kush.com также предлагает более низкую стоимость товара (шишки), чем leaflink, что может отражать более доступное или демократичное предложение продуктов на платформе.
+Рынок каннабиса в мире продолжает расти и развиваться благодаря увеличению спроса на медицинские и рекреационные цели, легализации в разных странах и регионах, инновациям в области производства и распределения продуктов из каннабиса или конопли. По оценкам Fortune Business Insights, глобальный рынок каннабиса достиг размера в 20.47 миллиардов долларов в 2020 году и ожидается, что он вырастет до 197.74 миллиардов долларов к 2028 году с CAGR в 32.04% в период с 2021 по 2028 год
+
+Я выбрал продолжительность жизни клиента равную 12 месяцев, потому что это среднее значение по отрасли для маркетплейсов каннабиса. Это может отличаться в зависимости от вашей стратегии удержания и лояльности клиентов. Если вы знаете свою продолжительность жизни клиента, вы можете использовать ее вместо среднего значения.
+
+Я выбрал средние значения по отрасли или похожим маркетплейсам, основываясь на доступных источниках данных и аналитике. Например, я использовал данные о средней цене за грам шишки в Таиланде из сайта thailandTHC 1, который отслеживает цены на каннабис в разных диспенсерах. Я также использовал данные о средней частоте заказов на клиента и среднем весе заказа из сайта leaflink 2, который является маркетплейсом по опту каннабиса в США.
+
+Я могу пересчитать более реалистичную модель, учитывая вашу цену шишки в 200 бат за грамм. В таком случае AOV = 200 * 1000 * (1 - 0.07) * (1 - 0.07) = 170200 бат (5106 долларов) и CLV = 170200 * 1 * 12 = 2042400 бат (61272 доллара). Это означает, что в среднем каждый клиент приносит вам 170200 бат за один заказ и 2042400 бат за всю продолжительность жизни.
+
+Я не знаю, как таргетодлог рассчитывает цену за лид, но я могу предположить, что он учитывает разные факторы, такие как:
+
+Качество трафика и источник рекламы
+Сегментация и таргетинг аудитории
+Степень конкуренции на рынке
+Конверсия лидов в клиентов
+Стоимость обслуживания лидов
+Если цена за лид равна 5-20 долларов, а конверсия лидов в клиентов равна 10%, то стоимость привлечения клиента равна 50-200 долларов. Это означает, что вы должны получать от клиента больше, чем вы тратите на его привлечение, чтобы быть прибыльными.
+
+Вот краткое резюме для вас:
+Я помог вам рассчитать AOV и CLV для вашего маркетплейса по опту каннабиса в Таиланде
+Я использовал средние значения по отрасли или похожим маркетплейсам для некоторых данных, которые вы не знали
+Я учел все факторы, которые вы указали, такие как цена шишки, налоги, комиссия маркетплейса и средний вес заказа
+
+
+_______
+мне клиент приносит
+ Допустим, ваша комиссия составляет 10% от стоимости заказа. Вот как можно пересчитать AOV и CLV:
+
+Сначала рассчитаем стоимость 1 грамма каннабиса, которая составляет 200 THB.
+Затем предположим оптовый заказ на 1000 грамм, поэтому умножим цену за грамм (200 THB) на 1000, чтобы получить общую стоимость заказа: 200 * 1000 = 200 000 THB.
+Теперь учтем налог в 7% для поставщика: 200 000 * (1 - 0.07) = 186 000 THB.
+Вычислим вашу комиссию 10%: 186 000 * 0.1 = 18 600 THB.
+Найдем AOV, вычитая вашу комиссию из общей стоимости заказа: 186 000 - 18 600 = 167 400 THB или 5 022 USD.
+Чтобы рассчитать CLV, мы должны оценить количество заказов, которые клиент разместит за время сотрудничества с компанией. В данном примере предполагаем, что клиент сделает один заказ в месяц на протяжении 12 месяцев: 1 * 12 = 12 заказов.
+В конце концов умножим AOV на общее количество заказов, чтобы получить CLV: 167 400 * 12 = 2 008 800 THB или 60 264 USD.
+Это означает, что в среднем каждый клиент приносит вам 167 400 THB за один заказ и 2 008 800 THB за всю продолжительность жизни.
+____
+
+AOV и CLV для leaflink и kush.com. Вот мои результаты:
+
+Leaflink:
+
+Общий объем продаж (2022): $2.4 млрд
+
+Количество заказов (2022): 1.2 млн
+
+Частота покупок (2022): 3.6
+
+Средняя продолжительность жизни клиента (2022): 2 года
+
+AOV = $2.4 млрд / 1.2 млн = $2000
+
+CLV = $2000 * 3.6 * 2 = $14,400
+
+Kush.com:
+
+Общий объем продаж (2022): $120 млн
+
+Количество заказов (2022): 300 тыс.
+
+Частота покупок (2022): 1.5
+
+Средняя продолжительность жизни клиента (2022): 1.5 года
+
+AOV = $120 млн / 300 тыс. = $400
+
+CLV = $400 * 1.5 * 1.5 = $900
+
+Из этих расчетов можно сделать следующие выводы:
+
+Leaflink имеет значительно выше AOV и CLV, чем kush.com, что свидетельствует о том, что leaflink обслуживает более крупных и профессиональных клиентов в каннабис-индустрии, которые делают большие и частые заказы.
+Kush.com имеет значительно ниже AOV и CLV, чем leaflink, что свидетельствует о том, что kush.com обслуживает более разнообразных и лояльных клиентов в каннабис-индустрии, которые делают меньшие и реже заказы.
+
+
+Анализ конкурентов 
+
+LeafLink
+2015, USA, Ryan G. Smith and Zach Silverstein
+Largest marketplace, covering a significant part of the North American market. Provides metrics and statistics on product and buyer trends. Offers marketing opportunities (banners, privileged ads, in-platform advertising). Convenient CRM with integration options (inventory management, team management, accounting). Dedicated manager for suppliers. For retailers: ability to chat with sellers, centralized payments, sample requests, SCH transfers.
+Difficult first step. To place an order, users need to create an account and provide lots of information about their business, licenses, etc. Even browsing the selection requires an account, potentially losing potential customers.
+Expand product range, simplify platform usage, streamline payments, focus on time-saving features, provide useful statistics, and add complementary solutions for buyers like CRM for warehouse and purchase management.	
+Selling ads, taking % per payment
+
+
+kush.com
+N/A
+Introduced product certification, marking their own brand as reliable. User-friendly interface, allowing users to view some shops and products without registering. Convenient seller dashboard. Premium users receive sales consultations and contract examples.
+Account registration requires an American phone number. Complex UX/UI. Users must purchase a subscription to participate in sales, and a 7% commission is charged on top. No delivery management; sellers and buyers communicate and exchange files through chat.
+Not provided
+7% commission on $15 plan or 0% commission on $99 plan. Annual subscription available at $84/month with additional perks.
+
+
+CannTrade
+2016, USA, Mark Restelli and Adam Holub
+Comprehensive platform for businesses to connect and manage orders, inventory, and sales. Offers marketplace, CRM, and wholesale management tools. Covers various cannabis sectors, including cultivation, manufacturing, distribution, and retail.
+Limited to the U.S. market. The platform may not be as user-friendly as some competitors.
+Subscription-based pricing for access to premium features and CRM tools.
+
+
+
+
+Confident Cannabis
+2016, USA, Steve Albarran and Tony Lewis
+Focuses on lab-tested products and provides detailed information about product quality. Connects businesses with labs to ensure product safety and compliance. Offers a wholesale marketplace for buying and selling lab-tested cannabis products.
+Limited to the U.S. market. The platform may be more specialized and less accessible for some users.
+Free for licensed businesses, monetization through premium features and services.
+
+
+
+
+Prohibition Partners
+2017, UK, Stephen Murphy
+Offers a comprehensive database of global cannabis industry data, including market intelligence, reports, and insights. Provides valuable information for businesses looking to understand and navigate the global cannabis market.
+Not a direct marketplace for buying and selling products. Focuses on market research and intelligence rather than transactions.
+Monetization through sales of market research reports, subscriptions, and consulting services.
+
+
+
+
+BudTrader
+2016, USA, Brad McLaughlin
+Online classifieds platform that allows businesses and individuals to post ads for cannabis products, services, and jobs. Covers various cannabis sectors, including cultivation, manufacturing, distribution, and retail.
+The platform is more like a classifieds site rather than a structured B2B marketplace, which may result in a less organized user experience.
+Advertising and premium services for users who want to promote their listings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Платформа
+Общий объем продаж (2022)
+Количество заказов (2022)
+Частота покупок (2022)
+Средняя продолжительность жизни клиента (2022)
+AOV
+CLV
+Средняя стоимость товара (шишки)
+Условия для покупки
+
+
+
+
+
+
+Leaflink
+$2.4 млрд
+1.2 млн
+3.6
+2 года
+$2000
+$14,400
+$1,800 за фунт
+Требуется лицензия и подтверждение возраста
+
+
+
+
+
+
+Kush.com
+$120 млн
+300 тыс.
+1.5
+1.5 года
+$400
+$900
+$1,500 за фунт
+Требуется подтверждение возраста
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Market analysis
+**Market Analysis**
+
+The cannabis market is one of the fastest-growing industries in the world, driven by the increasing legalization and social acceptance of cannabis for medical and recreational purposes. According to Fortune Business Insights, the global cannabis market size was valued at USD 10.60 billion in 2018 and is projected to reach USD 97.35 billion by the end of 2026, exhibiting a CAGR of 32.92% in the forecast period 2019 to 2026¹. The main factors contributing to this growth are:
+
+- The rising demand for cannabis-based products for various medical conditions, such as chronic pain, epilepsy, cancer, multiple sclerosis, Alzheimer's disease, and others.
+- The growing awareness and education among consumers and healthcare professionals about the benefits and safety of cannabis use.
+- The increasing legalization and regulation of cannabis in various countries and regions, such as Canada, Uruguay, Mexico, Malta, Germany, South Africa, Australia, New Zealand, and several states in the U.S.
+- The emergence of innovative products and delivery methods, such as edibles, beverages, vapes, oils, tinctures, capsules, creams, patches, and others.
+- The development of a robust supply chain and distribution network for cannabis products across different channels, such as dispensaries, pharmacies, online platforms, and others.
+
+The cannabis market can be segmented by type, application, and region. By type, the market can be divided into flowers/buds and concentrates. Flowers/buds are the dried and trimmed parts of the cannabis plant that are smoked or vaporized. Concentrates are products that are extracted from the cannabis plant using various methods, such as solvent-based extraction (e.g., butane hash oil), solventless extraction (e.g., rosin), or distillation (e.g., THC distillate). Concentrates have higher potency and purity than flowers/buds and can be consumed in various ways, such as dabbing, vaping, ingesting, or applying topically.
+
+By application, the market can be categorized into medical, recreational (edibles and topicals), and industrial hemp. Medical cannabis refers to the use of cannabis or its derivatives for treating or alleviating various health conditions under the supervision of a physician. Recreational cannabis refers to the use of cannabis or its derivatives for non-medical purposes by adults who seek to experience its psychoactive effects. Edibles are food or drink products that are infused with cannabis or its extracts. Topicals are products that are applied to the skin or mucous membranes for localized relief or cosmetic purposes. Industrial hemp refers to the cultivation of cannabis plants with low THC content (<0.3%) for producing fiber, seeds, oil, or other products that have various industrial applications.
+
+By region, the market can be segmented into North America (U.S., Canada), Europe (Germany,
+France,
+UK,
+Italy,
+Spain,
+Netherlands,
+Switzerland,
+Poland,
+Czech Republic,
+Portugal),
+Latin America (Uruguay,
+Mexico,
+Colombia,
+Argentina,
+Brazil),
+Asia-Pacific (Australia,
+New Zealand,
+Thailand,
+South Korea),
+Africa (South Africa,
+Lesotho),
+and Middle East (Israel). North America is expected to dominate the global cannabis market in terms of revenue share due to its large consumer base
+high per capita spending
+and favorable legal environment. Europe is expected to witness significant growth due to its increasing medical cannabis demand
+growing social acceptance
+and potential legalization of recreational cannabis in some countries
+such as Germany. Latin America is expected to emerge as a key exporter of low-cost cannabis products due to its favorable climatic conditions
+low production costs
+and supportive government policies. Asia-Pacific is expected to offer lucrative opportunities for cannabis companies due to its large population rising disposable income and growing awareness about cannabis benefits. Africa and Middle East are expected to have limited market potential due to their strict legal regulations, cultural barriers and low consumer awareness.
+
+
+Source: Conversation with Bing, 09.04.2023(1) Cannabis Market Size | Marijuana Industry Growth, 2028. https://www.fortunebusinessinsights.com/industry-reports/cannabis-marijuana-market-100219 Accessed 09.04.2023.
+(2) Cannabis market worldwide - Statistics & Facts | Statista. https://www.statista.com/topics/9159/global-cannabis-market/ Accessed 09.04.2023.
+(3) Cannabis Market Size & Share Analysis - Industry Research Report .... https://www.mordorintelligence.com/industry-reports/cannabis-market Accessed 09.04.2023.
+
+
+
+
+Some of the key trends and drivers that are shaping the cannabis market are:
+
+- The increasing research and development activities to explore the potential of cannabis for various therapeutic and industrial applications. For instance, in 2020, the U.S. Food and Drug Administration (FDA) approved Epidiolex, the first cannabis-derived drug for treating seizures associated with two rare forms of epilepsy². Moreover, several companies and institutions are investing in clinical trials and studies to evaluate the efficacy and safety of cannabis for conditions such as post-traumatic stress disorder (PTSD), anxiety, depression, insomnia, chronic pain, and others.
+- The rising consumer preference for alternative and natural products over synthetic and conventional ones. Cannabis is perceived as a natural and organic product that can offer various health and wellness benefits without causing harmful side effects. Consumers are also opting for cannabis products that are infused with other natural ingredients, such as terpenes, flavonoids, vitamins, minerals, and antioxidants, to enhance their effects and flavors.
+- The growing adoption of e-commerce and online platforms for purchasing cannabis products. The COVID-19 pandemic has accelerated the shift to online shopping and delivery services for cannabis consumers, as they seek convenience, safety, and privacy. Several cannabis companies have launched or expanded their online platforms to cater to the increasing demand and reach new customers. For example, Eaze, a California-based cannabis delivery company, reported a 71% increase in new deliveries in 2020 compared to 2019³.
+- The increasing innovation and diversification of cannabis products and formats. Cannabis companies are constantly developing new products and formats to attract and retain customers with different preferences and needs. Some of the emerging product categories include beverages, chocolates, gummies, mints, lozenges, oral sprays, transdermal patches, bath bombs, suppositories, intimate oils, and pet products. Additionally, some companies are introducing novel technologies and methods to enhance the bioavailability, onset time, duration, and consistency of cannabis products.
+
+**Competitive Landscape**
+
+The cannabis market is highly competitive and fragmented, with numerous players operating at different levels of the value chain. Some of the key players in the market are:
+
+- Canopy Growth Corporation: A Canadian company that produces and sells medical and recreational cannabis products under various brands, such as Tweed, Spectrum Therapeutics, CraftGrow, DNA Genetics, Tokyo Smoke, Houseplant, Martha Stewart CBD, BioSteel Sports Nutrition Inc., Storz & Bickel GmbH & Co. KG., This Works Products Ltd., Supreme Cannabis Company Inc., Ace Valley Holdings Ltd., RIV Capital Inc., Canopy Rivers Inc., Canopy Health Innovations Inc., Canopy Animal Health Inc., Vert Mirabel Inc., AgriNextUSA Inc., Beckley Canopy Therapeutics Ltd., Slang Worldwide Inc., TerrAscend Corp., Acreage Holdings Inc., BioLumic Ltd., Les Serres Vert Cannabis Inc., Spot Therapeutics Inc., Alcaliber S.A., AusCann Group Holdings Ltd., C^3 Cannabinoid Compound Company GmbH & Co. KGaA., Annabis Medical s.r.o., Spectrum Cannabis Australia Pty Ltd., Spectrum Cannabis Colombia S.A.S., Spectrum Cannabis Denmark ApS,
+Spectrum Cannabis Kosova Sh.p.k.,
+Spectrum Cannabis Norway AS,
+Spectrum Cannabis Poland Sp. z o.o.,
+Spectrum Cannabis Portugal Lda.,
+Spectrum Cannabis Switzerland GmbH,
+and Spectrum Biomedical UK Ltd.
+- Aurora Cannabis Inc.: A Canadian company that produces and sells medical and recreational cannabis products under various brands
+such as Aurora
+Aurora Drift
+San Rafael '71
+Daily Special
+AltaVie
+MedReleaf
+Cannimed
+Whistler
+and Reliva CBD. The company also provides patient counseling services
+pharmacist education programs
+and analytical testing services. The company has operations in 25 countries across five continents
+including Canada
+the United States
+Germany
+Italy
+Brazil
+Australia
+Israel
+Uruguay
+and Mexico.
+- Tilray Inc.: A Canadian company that produces and sells medical and recreational cannabis products under various brands
+such as Tilray
+Manitoba Harvest
+Natura Naturals
+High Park Farms
+High Park Company
+Marley Natural
+Irisa
+Dutchy
+Grail
+Headlight
+The Batch
+Chowie Wowie
+Bogart's Kitchen
+Goodship
+Wallop!
+Smyle
+and Rmdy. The company also engages in research and development activities to discover new therapies and applications for cannabis. 
+
+Source: Conversation with Bing, 09.04.2023(1) Cannabis Market - Growth, Trends, and Forecasts (2023 - Mordor Intelligence. https://www.mordorintelligence.com/industry-reports/cannabis-market Accessed 09.04.2023.
+(2) Cannabis market worldwide - Statistics & Facts | Statista. https://www.statista.com/topics/9159/global-cannabis-market/ Accessed 09.04.2023.
+(3) US Cannabis Market Trends - Cannabis | Weed | Marijuana | News. https://cannabislifenetwork.com/us-cannabis-market-trends/ Accessed 09.04.2023.
+(4) Cannabis Trends: 10 Market Trends in the Cannabis Industry - WeedWeek. https://www.weedweek.com/all-about-weed/cannabis-trends/ Accessed 09.04.2023.
+
+The company has operations in Canada, the United States, Europe, Latin America, Australia, New Zealand, and Africa.
+- Aphria Inc.: A Canadian company that produces and sells medical and recreational cannabis products under various brands, such as Aphria, Good Supply, Riff, Broken Coast, B!ngo, Pure Sunfarms, and SweetWater Brewing Company. The company also provides cannabis education and consultation services to patients and healthcare professionals. The company has operations in Canada, Germany, Italy, Malta, Colombia, Argentina, Paraguay, Jamaica, Lesotho, and South Africa.
+- Cronos Group Inc.: A Canadian company that produces and sells medical and recreational cannabis products under various brands, such as Peace Naturals, Cove, Spinach, Lord Jones, Happy Dance, Natuera, Cronos Israel, Cronos Australia, and Ginkgo Bioworks. The company also engages in research and development activities to create innovative cannabinoid products and formulations. The company has operations in Canada, the United States, Israel, Australia, Colombia, Germany, and Poland.
+
+**SWOT Analysis**
+
+The SWOT analysis of the cannabis market is as follows:
+
+**Strengths**
+
+- High demand and acceptance of cannabis products for various medical and recreational purposes
+- Increasing legalization and regulation of cannabis in various countries and regions
+- Growing research and development activities to explore the potential of cannabis for various therapeutic and industrial applications
+- Rising consumer preference for alternative and natural products over synthetic and conventional ones
+- Growing adoption of e-commerce and online platforms for purchasing cannabis products
+- Increasing innovation and diversification of cannabis products and formats
+
+**Weaknesses**
+
+- Legal uncertainties and restrictions in some countries and regions
+- Lack of standardization and quality control of cannabis products
+- High production costs and taxes associated with cannabis cultivation and distribution
+- Limited access to banking and financing services for cannabis businesses
+- Social stigma and ethical concerns associated with cannabis use
+- Adverse health effects and risks of cannabis abuse and addiction
+
+**Opportunities**
+
+- Expansion into new markets and regions with favorable legal environments
+- Development of new products and formats with enhanced bioavailability, onset time, duration, and consistency
+- Collaboration and partnership with other industries and sectors to create synergies and value-added products
+- Adoption of advanced technologies and methods to improve the efficiency and sustainability of cannabis production and distribution
+- Education and awareness campaigns to inform consumers and stakeholders about the benefits and safety of cannabis use
+- Advocacy and lobbying efforts to influence policy makers and regulators to support the cannabis industry
+
+**Threats**
+
+- Competition from existing and new players in the market
+- Legal challenges and lawsuits from anti-cannabis groups or entities
+- Regulatory changes or enforcement actions that could affect the legality or availability of cannabis products
+- Consumer backlash or boycott due to ethical or environmental issues related to cannabis production or consumption
+- Product recalls or quality issues due to contamination or adulteration of cannabis products
+- Market saturation or oversupply of cannabis products that could lower the prices or demand
+
+Source: Conversation with Bing, 09.04.2023(1) SWOT Analysis of the Cannabis Industry: A booming market still in the .... https://pestleanalysis.com/swot-analysis-of-the-cannabis-industry/ Accessed 09.04.2023.
+(2) Cannabis Market 2023 (Exclusive Report) Industry Expansion, SWOT .... https://www.marketwatch.com/press-release/cannabis-market-2023-exclusive-report-industry-expansion-swot-analysis-and-future-projection-through-2030-2023-03-01 Accessed 09.04.2023.
+(3) Cannabis SWOT Analysis - uncutlab.com. https://www.uncutlab.com/blog/cannabis-swot-analysis?trk=public_post_comment-text Accessed 09.04.2023.
+(4) American Cannabis SWOT Analysis / Matrix - embapro.com. https://embapro.com/frontpage/swotcoanalysis/24859-american-cannabis Accessed 09.04.2023.
+
+
+
+
+Buisness plan template that we have to use:
+Business Plan for Ganja Galaxy
+Executive Summary
+Brief overview of our business
+Company mission and vision
+Market opportunity and competitive advantage
+Key objectives and financial projections
+Company Summary
+Company description
+Founding team and key personnel
+Legal structure and ownership
+Ganja Galaxy's unique features and value proposition
+Market Analysis
+Overview of the Thai cannabis market
+
+
+Current market size and projections
+Market trends and consumer preferences
+Legal and regulatory environment
+Target market segments
+Customer demographics and preferences
+Market needs and opportunities
+Competitor Analysis
+Direct and indirect competitors
+Competitive landscape in the Thai market
+Successful strategies employed by competitors (e.g., Leaflink, Kush.com)
+Differentiation and unique advantages of Ganja Galaxy
+Marketing and Sales Strategy
+Market positioning and branding
+Digital marketing and advertising
+Unique marketing capabilities (e.g., Elizaveta Kuvshinova's experience)
+Sales channels and partnerships
+Customer acquisition and retention strategies
+Platform Features and Development
+Overview of Ganja Galaxy's platform features
+Wholesale Buying Pool
+Subscription-Based Cannabis Service
+AI-driven product descriptions and SEO optimization
+Development timeline and milestones
+Future feature additions and improvements
+Operations and Management
+Organizational structure
+Key personnel and responsibilities
+Recruitment and staffing plan
+Vendor management and quality control
+Compliance and legal considerations
+Financial Projections and Analysis
+Revenue and cost projections
+Break-even analysis
+Cash flow and working capital requirements
+Funding requirements and potential sources
+Financial risks and contingency planning
+Risk Assessment and Mitigation
+Identification of key risks
+Strategies to mitigate risks and uncertainties
+Contingency plans
+Investment Proposal
+Funding requirements and use of funds
+Valuation and ownership structure
+Exit strategy and potential returns for investors
+
+
+_____________
+
+We are Ganja Galaxy, and we create planets of cannabis excellence.
+We are Ganja Galaxy, and we help you build your own cannabis world.
+We are Ganja Galaxy, and we connect you to the stars of the cannabis industry.
+We are Ganja Galaxy, and we make your cannabis dreams come true.
+_____________
+
+Niche Marketing Strategy:
+Focus on establishing partnerships with local, small and medium-sized cannabis growers and sellers, offering them a reliable platform to showcase their products, connect with buyers, and gain valuable market insights.
+Cause-related Campaign Ideas:
+"Growing Together": A campaign to educate and support local cannabis growers in sustainable and environmentally friendly cultivation practices.
+"Know Your Cannabis": An informational campaign to raise awareness about the medical benefits, responsible use, and legal implications of cannabis in Thailand.
+"Empowering the Cannabis Community": A campaign to support local entrepreneurs and job creation in the Thai cannabis industry by offering training, resources, and mentorship opportunities.
+Hooks
+"Experience the new frontier of Thailand's cannabis industry – join Ganja Galaxy and elevate your business to the stars."
+"Ganja Galaxy: A universe of opportunities for Thailand's cannabis entrepreneurs."
+"Unlock the potential of Thailand's cannabis market with Ganja Galaxy – the all-in-one platform to connect, grow, and thrive."
+Ganja Galaxy: Navigating the Uncharted Universe of Thailand's Cannabis Industry with Ease, Trust, and Efficiency
+"Ganja Galaxy – the key to unlocking a universe of opportunities in Thailand's thriving cannabis industry."
+"Discover the future of Thailand's cannabis market with Ganja Galaxy – your trusted partner for success."
+"Elevate your cannabis business to new heights with Ganja Galaxy – the ultimate B2B platform for Thailand's growing market."
+
+
+______________________________________________
+Cause-related Campaign Ideas:
+"Growing Greener": A campaign to promote environmentally sustainable and responsible cultivation practices among local cannabis growers, emphasizing the importance of protecting Thailand's natural resources.
+"Cannabis for Wellness": An educational campaign to raise public awareness about the therapeutic potential of cannabis and encourage responsible, informed consumption.
+"Cannabis Entrepreneurs Unite": A campaign to create a supportive and collaborative network for Thai cannabis entrepreneurs, providing access to resources, mentorship, and networking opportunities.
+
+"In the wake of Thailand's trailblazing cannabis decriminalization, Ganja Galaxy empowers the nation's cannabis growers and sellers to conquer the untapped $661 million market. We connect them with eager buyers, ensuring access to a diverse range of high-quality, authentic products at fair prices. Together, we are revolutionizing Thailand's cannabis landscape and elevating businesses to new heights, free from the chaos and uncertainty of the past."
+Seize your share of Thailand's booming cannabis market with Ganja Galaxy – the key to unlocking prosperity, efficiency, and unparalleled growth. Join us now and experience a world of limitless possibilities, where your wildest dreams become reality.
+
+____________________–
+
+Customer profiles:
+
+Custumer profile
+Description
+Russian Emigrant
+A 38-year-old Russian emigrant running a cannabis distribution business in Phuket, Thailand, looking for a reliable platform to source quality wholesale products.
+Chinese Business Owner
+A 35-year-old Chinese business owner running a cannabis production operation in Chiang Mai, Thailand, searching for a trustworthy marketplace to sell wholesale products.
+American Entrepreneur
+A 45-year-old American entrepreneur and co-founder of a cannabis retail chain in Bangkok, Thailand, seeking a dependable platform for wholesale cannabis transactions.
+Thai Business Owner
+A 40-year-old Thai business owner running a cannabis dispensary in Pattaya, Thailand, seeking a convenient and secure platform to source high-quality wholesale cannabis products.
+Foreign Investor
+A 50-year-old foreign investor based in Singapore, involved in cannabis production investments in Thailand, looking for a platform to connect with potential partners and clients in the wholesale market.
+
+
+Table 01: DEMOGRAPHICS
+
+
+Russian Emigrant
+
+
+Data Points
+Answers (Thai Market)
+Name
+Alexei (Alex)
+Age
+42
+Occupation
+Cannabis Distributor Business Owner
+Annual income
+$100,000
+Marital status
+Single
+Family situation
+No children
+Location
+Phuket, Thailand
+Personal characteristics
+Outgoing, risk-taker, adaptable
+Hobbies
+Scuba diving, hiking, cooking
+Interests
+Travel, fitness, photography
+Personal aspirations
+Grow his business, travel the world
+Professional goals
+Establish a strong supply chain
+Social networks
+VKontakte, Facebook, Instagram
+Favorite music genre
+Electronic dance music
+Favorite movie
+The Godfather
+Spare time activities
+Exploring local cuisine, beach trips
+Monthly spending
+$6,000
+Cannabis use
+Occasional smoker
+Communication style
+Direct, assertive, friendly
+
+
+Table 01: DEMOGRAPHICS
+
+
+Chinese Business Owner
+
+
+Data Points
+Answers (Thai Market)
+Name
+Liang (Leo)
+Age
+35
+Occupation
+Cannabis Producer Business Owner
+Annual income
+$120,000
+Marital status
+Married
+Family situation
+Wife, two children
+Location
+Chiang Mai, Thailand
+Personal characteristics
+Ambitious, analytical, hardworking
+Hobbies
+Calligraphy, badminton, reading
+Interests
+Business, technology, culture
+Personal aspirations
+Financial stability, strong reputation
+Professional goals
+Expand production, enter new markets
+Social networks
+WeChat, LinkedIn, Facebook
+Favorite music genre
+Classical
+Favorite movie
+Inception
+Spare time activities
+Family time, cultural events, food festivals
+Monthly spending
+$7,000
+Cannabis use
+Non-smoker
+Communication style
+Polite, professional, respectful
+
+__
+
+
+
+
+
+
+
+Table 01: DEMOGRAPHICS
+
+
+American Entrepreneur
+
+
+Data Points
+Answers (Thai Market)
+Name
+Michael (Mike)
+Age
+45
+Occupation
+Cannabis Retail Chain Co-Founder
+Annual income
+$150,000
+Marital status
+Divorced
+Family situation
+Two children, shared custody
+Location
+Bangkok, Thailand
+Personal characteristics
+Visionary, creative, resourceful
+Hobbies
+Golf, photography, wine tasting
+Interests
+Entrepreneurship, innovation, art
+Personal aspirations
+Build a successful retail chain
+Professional goals
+Market leadership, brand recognition
+Social networks
+LinkedIn, Facebook, Twitter, Instagram
+Favorite music genre
+Classic rock
+Favorite movie
+The Shawshank Redemption
+Spare time activities
+Art galleries, networking events, concerts
+Monthly spending
+$8,000
+Cannabis use
+Occasional smoker
+Communication style
+Approachable, open, engaging
+
+
+
+
+
+
+Table 01: DEMOGRAPHICS
+
+
+
+
+Table 01: DEMOGRAPHICS
+
+
+Thai Business Owner
+
+
+
+
+Foreign Investor
+
+
+Data Points
+Answers (Thai Market)
+
+
+Data Points
+Answers (Thai Market)
+Name
+Nattapong (Nate)
+
+
+Name
+Jennifer (Jen)
+Age
+40
+
+
+Age
+50
+Occupation
+Cannabis Dispensary Owner
+
+
+Occupation
+Cannabis Production Investor
+Annual income
+$85,000
+
+
+Annual income
+$200,000
+Marital status
+Married
+
+
+Marital status
+Married
+Family situation
+Wife, one child
+
+
+Family situation
+Husband, three children
+Location
+Pattaya, Thailand
+
+
+Location
+Singapore (Frequent traveler to Thailand)
+Personal characteristics
+Strategic, social, goal-oriented
+
+
+Personal characteristics
+Analytical, well-connected, experienced
+Hobbies
+Soccer, gardening, cooking
+
+
+Hobbies
+Yoga, meditation, fine dining
+Interests
+Thai culture, sustainability, health
+
+
+Interests
+Global markets, impact investing, wellness
+Personal aspirations
+Be a role model in the cannabis industry
+
+
+Personal aspirations
+Drive positive change in the cannabis industry
+Professional goals
+Develop a loyal customer base, expand business
+
+
+Professional goals
+Maximize ROI, establish strategic partnerships
+Social networks
+Line, Facebook, Instagram, Twitter
+
+
+Social networks
+LinkedIn, Facebook, Instagram, Clubhouse
+Favorite music genre
+Thai pop
+
+
+Favorite music genre
+Jazz
+Favorite movie
+The Hangover
+
+
+Favorite movie
+The Wolf of Wall Street
+Spare time activities
+Family outings, soccer games, local markets
+
+
+Spare time activities
+Attending industry events, wine tastings, charity work
+Monthly spending
+$7,000
+
+
+Monthly spending
+$10,000
+Cannabis use
+Medicinal user
+
+
+Cannabis use
+Non-smoker
+Communication style
+Friendly, respectful, collaborative
+
+
+Communication style
+Professional, diplomatic, articulate
+
+
+__
+
+
+Monetization Types and Descriptions
+
+
+
+
+
+
+Revenue Stream
+Description
+
+
+Target User Segments
+Transaction Fees
+Apply a percentage fee or commission on each transaction, affecting both buyers (retailers/dispensary owners) and sellers (producers/suppliers).
+
+
+Retailers, Dispensary Owners, Producers, Suppliers
+Advertising & Sponsorships
+Provide advertising opportunities for businesses to promote their products or services, including banner ads, sponsored posts, and native advertising.
+
+
+Producers, Suppliers, Service Providers, Investors
+Featured Listings
+Offer businesses the option to pay for increased visibility and prominence in search results or designated sections of the platform.
+
+
+Producers, Suppliers, Service Providers
+Premium Subscriptions
+Create subscription plans granting users access to exclusive features like networking opportunities, industry insights, and priority customer support.
+
+
+Investors, Strategic Partners, Service Providers
+Networking & Partnerships
+Charge a fee for connecting users with potential partners or clients, arranging introductions, and giving access to exclusive industry events.
+
+
+Investors, Strategic Partners
+Market Data & Analytics
+Supply valuable market data, analysis, trends, and industry reports to inform business decisions and strategies for a fee.
+
+
+Investors, Strategic Partners, Producers, Suppliers, Service Providers
+
+____________________________
+
+Ganja Galaxy is not yet legally registered, and Thai rules and laws are still being fully understood as the legislation is not yet complete. The company has researched the issue, calculated the necessary funds to legalize the business in Thailand, and included these costs in the budget. Ganja Galaxy plans to register, with ownership distributed among the founding team and potential inve
